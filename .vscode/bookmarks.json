@@ -1,0 +1,14 @@
+{
+	"files": [
+		{
+			"path": "packages/react/src/ReactElement.js",
+			"bookmarks": [
+				{
+					"line": 344,
+					"column": 3,
+					"label": "根据用户给的 type，创建并返回一个 React 元素"
+				}
+			]
+		}
+	]
+}
